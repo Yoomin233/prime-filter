@@ -1,0 +1,3 @@
+derived from (https://leetcode.com/problems/count-primes/)
+
+data binding were used to reflect data changes on the DOM level
